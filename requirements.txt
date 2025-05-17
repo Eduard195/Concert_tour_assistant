@@ -2,3 +2,7 @@ transformers
 torch
 faiss-cpu
 sentence-transformers
+streamlit
+os
+pickle
+numpy
